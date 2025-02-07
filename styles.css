@@ -1,0 +1,28 @@
+body {
+    margin: 100px 35%;
+    font-family: sans-serif;
+}
+
+.questions {
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 2px 15px;
+    width: 403px;
+    margin-bottom: 10px;
+}
+
+span {
+    position: relative;
+    bottom: 14px;
+    float: right;
+    font-size: 24px;
+}
+
+.answers {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 2px 15px;
+    margin-bottom: 10px;
+    width: 400px;
+}
